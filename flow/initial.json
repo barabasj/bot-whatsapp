@@ -19,48 +19,24 @@
     },
     {
         "keywords":  [
-            "cursos",
-            "info",
-            "curso"        ],
+            "gotools latam en la web",
+            "web",
+            "home page",
+			"pagina"
+			],
         "key": "STEP_2"
     },
     {
         "keywords":  [
-            "angular"
-        ],
-        "key": "STEP_2_1"
-    },
-    {
-        "keywords":  [
-            "node"
-        ],
-        "key": "STEP_2_2"
-    },
-    {
-        "keywords":  [
-            "ngrx"
-        ],
-        "key": "STEP_2_3"
-    },
-    {
-        "keywords":  [
-            "aws"
-        ],
-        "key": "STEP_2_4"
-    },
-    {
-        "keywords":  [
-            "asesor",
-            "asesores",
-            "Vendedor",
-            "cobrador"
+            "gotools latam en linkedin",
+            "linkedin"
         ],
         "key": "STEP_3"
     },
     {
         "keywords":  [
             "muchas gracias",
-            "ok",
+            "adios",
             "gracias",
             "vale gracias"
         ],
@@ -68,19 +44,24 @@
     },
     {
         "keywords":  [
-            "youtube"
+            "contacto"
         ],
         "key": "STEP_5"
     },
     {
         "keywords":  [
-            "VER_CURSOS"
+            "quienes son?",
+			"gotools",
+			"a que se dedican?",
+			"quienes son",
+			"a que se dedican"
+			
         ],
         "key": "STEP_6"
     },
     {
         "keywords":  [
-            "telegram"
+            "servicios"
         ],
         "key": "STEP_7"
     },
